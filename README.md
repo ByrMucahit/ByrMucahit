@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**ByrMucahit/ByrMucahit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p  align="center"><img height="350" src = "https://github.com/sanchitvj/sanchitvj/blob/master/intro_gif.gif"></p>
 
@@ -11,7 +8,7 @@
 - 🌱 I’m currently learning TensorFlow and Pytorch.
 - 👯 I’m looking to collaborate on Hackathons, Kaggle competitions and Research-based projects.
 - 🤔 I’m looking for help with [JPP-Net](https://arxiv.org/pdf/1804.01984).
-- 📫 How to reach me: sanchitvj1026@gmail.com
+- 📫 How to reach me: m.mucahitbayar@gmail.com
 <!--- 😄 Pronouns: Anything you like.
 - ⚡ Fun fact: Undergrad in ECE but don't know why I chose that.  -->
 
@@ -24,7 +21,7 @@
 <br><br><br><br><br><br><br><br><p align = "center"><b>You can find me here</b></p>
 <p align = "center"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>  
 <!--<p align = "center"><a><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a></p>  -->
-<p align = "center"><a href="https://www.linkedin.com/in/sanchit-vijay-774432178"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a>  <a href="https://medium.com/@sanchitvj"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="32px" height="32px"></a>  <a href="https://www.kaggle.com/sanchitvj"><img src="https://github.com/sanchitvj/sanchitvj/blob/master/kaggle%20icon.png" width="34px" height="34px"></a>  <a href="https://mobile.twitter.com/sanchit_vijay"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png" width="32px" height="32px"></a></p>  
+<p align = "center"><a href="https://www.linkedin.com/in/mucahit-bayar-a17098176/"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a>  <a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="32px" height="32px"></a>  <a href="https://www.kaggle.com/mcahitbayar"><img src="https://github.com/sanchitvj/sanchitvj/blob/master/kaggle%20icon.png" width="34px" height="34px"></a>  <a href="https://twitter.com/byr_mucahit"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png" width="32px" height="32px"></a></p>  
   
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sanchitvj}/count.svg" /></p> 
