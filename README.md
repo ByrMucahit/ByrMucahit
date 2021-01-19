@@ -1,6 +1,6 @@
 
 
-<p  align="center">Hey There, I'm Mücahit.I'm interested in Machine Learning and Data Science.<img height="350" src = "https://gph.is/g/E0QxOM8"></p>
+<p  align="center">Hey There, I'm Mücahit.I'm interested in Machine Learning and Data Science.<img height="350" src = "#"></p>
 
 **Here are some ideas to get you started:**
 
