@@ -1,7 +1,7 @@
 
 
 <p  align="center"><img height="350" src = "https://github.com/sanchitvj/sanchitvj/blob/master/intro_gif.gif"></p>
-
+<iframe src="https://giphy.com/embed/mXnO9IiWWarkI" width="480" height="324" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/trolli-lego-trolli-weirdly-awesome-mXnO9IiWWarkI">via GIPHY</a></p>
 **Here are some ideas to get you started:**
 
 - 🔭 I’m currently working on Deep Learning Computer Vision, [ActiveloopAI Hub](https://github.com/activeloopai/Hub).
