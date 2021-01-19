@@ -1,7 +1,7 @@
 
 
-<p  align="center">Hey There, I'm Mücahit.I'm interested in Machine Learning and Data Science.<img height="350" src = "https://media.giphy.com/media/IYL6QwjqGjUnJsejM0/giphy.gif"></p>
-<iframe src="https://giphy.com/embed/IYL6QwjqGjUnJsejM0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/IYL6QwjqGjUnJsejM0">via GIPHY</a></p>
+<p  align="center">Hey There, I'm Mücahit.I'm interested in Machine Learning and Data Science.<img height="350" src = "https://gph.is/g/E0QxOM8"></p>
+
 **Here are some ideas to get you started:**
 
 - 🔭 I’m currently working on Deep Learning Computer Vision.
