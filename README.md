@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on Deep Learning Computer Vision.
 - 🌱 I’m currently learning TensorFlow, Keras and Pytorch.
 - 👯 I’m looking to collaborate on Hackathons, Kaggle competitions and Research-based projects.
-- 🤔 I’m looking for help with [JPP-Net](https://arxiv.org/pdf/1804.01984).
 - 📫 How to reach me: m.mucahitbayar@gmail.com
 <!--- 😄 Pronouns: Anything you like.
 - ⚡ Fun fact: Undergrad in ECE but don't know why I chose that.  -->
