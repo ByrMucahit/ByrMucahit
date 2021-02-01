@@ -1,9 +1,4 @@
-
-
-<p  align="center">Hey There, I'm Mücahit.I'm interested in Machine Learning and Data Science.<img height="350" src = "#"></p>
-
-
-   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/62469567/106434331-7831fc80-6482-11eb-888d-4894c250998e.gif)
+<img src="![ezgif com-gif-maker](https://user-images.githubusercontent.com/62469567/106434331-7831fc80-6482-11eb-888d-4894c250998e.gif)"/>
 
 
 
