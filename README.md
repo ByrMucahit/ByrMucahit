@@ -5,8 +5,8 @@
 
 **Here are some ideas to get you started:**
 
-- 🔭 I’m currently working on Deep Learning Computer Vision, Data Science.
-- 🌱 I’m currently learning TensorFlow, Keras and Pytorch.
+- 🔭 I’m currently working on  backend development, Front-End development.
+- 🌱 I’m currently learning Boot-spring, Next.js.
 - 👯 I’m looking to collaborate on Hackathons, Kaggle competitions and Research-based projects.
 - 📫 How to reach me: m.mucahitbayar@gmail.com
 <!--- 😄 Pronouns: Anything you like.
